@@ -1,0 +1,7 @@
+{
+    "api_endpoint": "https://hrml.mousumibd.org/api/employees/sync",
+    "api_key": "AWSKJSKJ934895395834985834958345",
+    "data_source": "csv",
+    "source_file": "employees.csv",
+    "debug": true
+  }

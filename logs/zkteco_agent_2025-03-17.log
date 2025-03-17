@@ -1,0 +1,9 @@
+[2025-03-17 10:18:31] INFO: ZKTeco Agent script started []
+[2025-03-17 10:18:31] INFO: Processing device: Head Office (192.168.5.149:4370) []
+[2025-03-17 10:18:31] INFO: Connected to device: Head Office (192.168.5.149:4370) []
+[2025-03-17 10:18:31] INFO: Device info:  {"device_name":"~DeviceName=MB460\u0000","serial_number":"~SerialNumber=QWC5244200223\u0000","device_time":"2025-03-17 16:18:25"}
+[2025-03-17 10:18:31] INFO: Retrieved 25 user records []
+[2025-03-17 10:18:31] INFO: Retrieved 7 attendance records []
+[2025-03-17 10:18:31] INFO: Sending data to API: https://hrm.mousumibd.org/api/zkteco/sync []
+[2025-03-17 10:18:32] INFO: API request successful: Attendance data processed successfully []
+[2025-03-17 10:18:32] INFO: ZKTeco Agent script completed {"total_devices":1,"success_devices":1,"failed_devices":0}

@@ -1,0 +1,4 @@
+2025-03-17 16:06:47 - Autorun service started - C:\ZKTeco-Agent\run_zkteco.bat
+2025-03-17 16:06:47 - Batch file executed successfully
+2025-03-17 16:11:48 - Batch file executed successfully
+2025-03-17 16:16:49 - Batch file executed successfully
